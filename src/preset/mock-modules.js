@@ -83,4 +83,4 @@ jest.mock('react-native/Libraries/Animated/src/NativeAnimatedHelper');
 jest.mock('react-native/Libraries/Renderer/shims/ReactNative');
 
 // Mock LogBox
-jest.mock('react-native/Libraries/LogBox/LogBox');
+// jest.mock('react-native/Libraries/LogBox/LogBox');
