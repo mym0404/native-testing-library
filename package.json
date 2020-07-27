@@ -1,6 +1,6 @@
 {
   "name": "testinglibraryreactnativeformyproject",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple and complete React Native testing utilities that encourage good testing practices.",
   "main": "dist/index.js",
   "typings": "typings/index.d.ts",
